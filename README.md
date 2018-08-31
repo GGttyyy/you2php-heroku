@@ -1,7 +1,12 @@
 -----------------------------------------------------
-如果您嫌命令麻烦：
-可以使用这个一键部署：
-https://github.com/onplus/you2php-heroku/tree/web
+**一键部署到heroku：**  [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+提供现成的YouTube API：
+```
+AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c
+```
+
+**htpasswd网页锁** 账号密码在线生成：http://www.htaccesstools.com/htpasswd-generator/   
 
 -----------------------------------------------------
 **手动部署：**
